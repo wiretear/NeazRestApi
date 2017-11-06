@@ -2,7 +2,7 @@
 <div class="container">
 	<hr>
 	<footer style="text-align: right;">
-		<p>&copy; Era InfoTech Limited</p>
+		<p>&copy; Neaz Ahsan</p>
 	</footer>
 </div>
 
