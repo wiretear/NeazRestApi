@@ -8,8 +8,8 @@ public class  SpringDBConfig {
 
 	private static final String DB_DRIVER_CLASS = "oracle.jdbc.driver.OracleDriver";
 	private static final String DB_URL = "jdbc:oracle:thin:@10.11.201.251:1521:STLBAS";
-	private static final String DB_USERNAME = "PMSADMIN";
-	private static final String DB_PASSWORD = "PMSADMIN";
+	private static final String DB_USERNAME = "pass";
+	private static final String DB_PASSWORD = "pass";
 	
 	public static Connection getConnection() {
 		Connection con = null;
